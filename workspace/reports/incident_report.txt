@@ -1,0 +1,5 @@
+Total lines in app.log:
+20
+Total ERROR lines:
+6
+Top 3 client IPs by request count:
